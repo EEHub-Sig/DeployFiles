@@ -23,9 +23,20 @@
     <compat-mode>default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
- 
+	
+ 	<site url="https://sgnet-dev-3.oms.supply-chain.ibm.com/">
+    <compat-mode>default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+
+ 	<site url="https://sgnet-prod-1.oms.supply-chain.ibm.com/">
+    <compat-mode>default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>	
+	
 	<site url="https://w6-atl.assurant.com/">
     <compat-mode>default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
+
 </site-list>
