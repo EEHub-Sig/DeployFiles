@@ -4,7 +4,7 @@
     <version>12.0.0.0</version>
     <date-created>07/08/2025 17:12:50</date-created>
   </created-by>
-  <site url="https://sgnet-qa-1.oms.supply-chain.ibm.com/smcfs/">
+  <site url="https://sgnet-qa-1.oms.supply-chain.ibm.com/">
     <compat-mode>default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
